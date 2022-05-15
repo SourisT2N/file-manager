@@ -146,6 +146,10 @@ document.addEventListener("DOMContentLoaded", function() {
 function fmSetLink($url) {
   document.getElementById('image_label').value = $url;
 }
+
+// get files link
+function fmGetLinks($files) {
+}
 ```
 
 ### Multiple standalone buttons
